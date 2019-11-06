@@ -1,6 +1,6 @@
 {
   "name": "kanopi/metatag_remove",
-  "type": "drupal-custom-module",
+  "type": "drupal-module",
   "description": "Drupal 8 Module that removes actions added by Drupal core.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
