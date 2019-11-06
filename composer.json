@@ -1,13 +1,13 @@
 {
-  "name": "thejimbirch/metatag_remove",
+  "name": "kanopi/metatag_remove",
   "type": "drupal-custom-module",
   "description": "Drupal 8 Module that removes actions added by Drupal core.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://github.com/thejimbirch/metatag_remove",
+  "homepage": "https://github.com/kanopi/metatag_remove",
   "support": {
-    "issues": "https://github.com/thejimbirch/metatag_remove/issues",
-    "source": "https://github.com/thejimbirch/metatag_remove"
+    "issues": "https://github.com/kanopi/metatag_remove/issues",
+    "source": "https://github.com/kanopi/metatag_remove"
   },
   "require": { }
 }
